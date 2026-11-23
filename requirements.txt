@@ -1,0 +1,2 @@
+# Only the GUI needs an install. The CLI and the tests use the standard library.
+streamlit>=1.30
